@@ -22,7 +22,8 @@ Python, HTML, CSS, Streamlit, MSSQL, MySQL, PowerBI, VertexAI, GCP, Pinecone RAG
 **Lessons Learned**:  
 Working on this project revealed the power of agentic AI and its potential in business analytics. I learned how to integrate complex systems and leverage diverse tools to extract actionable insights from data. Moreover, I learned how to collaborate on software development to bring an idea into production, handling scalability, security, reliability, and efficiency.
 
-[**Check out the full repository and demo**](https://github.com/akhils022/internshipProjects/)
+[**Check out a sample chat demo**](https://github.com/akhils022/internshipProjects/tree/main/AutoInsightsDemo)
+*Note: Sensitive information redacted to protect confidentiality.*
 
 ---
 
