@@ -33,7 +33,7 @@ During the internship, I collaborated with the product team to migrate Auto Insi
 
 Here is a demonstration video of the **Auto Insights** chatbot in action:
 
-[![Auto Insights Demo Video](https://img.youtube.com/vi/AutoInsightsDemo.mp4/0.jpg)](Auto%20Insights%20Demo.mp4)
+[![Auto Insights Demo Video](https://img.youtube.com/vi/AutoInsightsDemo.mp4/0.jpg)](Auto%20Insights%20Demo-1.mp4)
 
 You can watch the full video demonstration by clicking the link above.
 
